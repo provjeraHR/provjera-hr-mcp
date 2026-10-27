@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/provjera-logo.svg" alt="provjera.hr" width="72" />
   <h1>provjera.hr MCP server</h1>
-  <p>Croatian company and association data for AI assistants: registry, financials, licences, concessions, bankruptcy notices and public funding. Look up any company by name, OIB or MBS from Claude, ChatGPT, Codex, Cursor or VS Code.</p>
+  <p>Croatian company and association data for AI assistants: registry, financials, licences, concessions, bankruptcy notices and public funding. Look up any company by name, OIB or MBS from Claude, Codex, Cursor or VS Code.</p>
   <p>
     <a href="https://cursor.com/en/install-mcp?name=provjera-hr&config=eyJ1cmwiOiJodHRwczovL3Byb3ZqZXJhLmhyL21jcCIsImhlYWRlcnMiOnsiQXV0aG9yaXphdGlvbiI6IkJlYXJlciBZT1VSX0FQSV9LRVkifX0%3D"><img src="https://img.shields.io/badge/Install_in-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Install in Cursor" /></a>
     <a href="https://insiders.vscode.dev/redirect/mcp/install?name=provjera-hr&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A//provjera.hr/mcp%22%2C%22headers%22%3A%7B%22Authorization%22%3A%22Bearer%20%24%7Binput%3Aprovjera-key%7D%22%7D%7D&inputs=%5B%7B%22type%22%3A%22promptString%22%2C%22id%22%3A%22provjera-key%22%2C%22description%22%3A%22provjera.hr%20API%20key%22%2C%22password%22%3Atrue%7D%5D"><img src="https://img.shields.io/badge/Install_in-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Install in VS Code" /></a>
