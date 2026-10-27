@@ -31,7 +31,7 @@
 
 ## Connect
 
-The server is hosted at `https://provjera.hr/mcp`. There is nothing to install. Every request sends your key as `Authorization: Bearer <key>`. Get a free key at [provjera.hr/api-i-podaci/kljuc](https://provjera.hr/api-i-podaci/kljuc).
+The server is hosted at `https://provjera.hr/mcp`. There is nothing to install. Its source code is not public; this repository holds the documentation and the [MCP Registry](https://registry.modelcontextprotocol.io) entry. Every request sends your key as `Authorization: Bearer <key>`. Get a free key at [provjera.hr/api-i-podaci/kljuc](https://provjera.hr/api-i-podaci/kljuc).
 
 **Claude Code**
 

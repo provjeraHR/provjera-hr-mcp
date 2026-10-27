@@ -1,0 +1,29 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.provjeraHR/provjera-hr-mcp",
+  "title": "provjera.hr",
+  "description": "Croatian company data: registry, financials, licences, concessions, court notices, subsidies.",
+  "websiteUrl": "https://provjera.hr/api-i-podaci",
+  "repository": {
+    "url": "https://github.com/provjeraHR/provjera-hr-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "icons": [
+    { "src": "https://provjera.hr/web-app-icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://provjera.hr/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Bearer YOUR_API_KEY. Free key: https://provjera.hr/api-i-podaci/kljuc",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
