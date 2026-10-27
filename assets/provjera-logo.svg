@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Provjera.hr logo</title>
+  <desc id="desc">Magnifying glass over a public-record building mark.</desc>
+  <circle cx="256" cy="256" r="224" fill="#052D68" />
+  <g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="240" cy="240" r="118" stroke-width="42" />
+    <path d="M326 326 397 397" stroke-width="42" />
+  </g>
+  <path fill="#FFFFFF" d="M195 217 256 179l61 38a17 17 0 0 1 8 15v86a17 17 0 0 1-17 17H204a17 17 0 0 1-17-17v-86a17 17 0 0 1 8-15Z" />
+  <rect x="220" y="249" width="22" height="76" rx="7" fill="#2E63A4" />
+  <rect x="245" y="226" width="22" height="99" rx="7" fill="#2E63A4" />
+  <rect x="270" y="249" width="22" height="76" rx="7" fill="#2E63A4" />
+</svg>
