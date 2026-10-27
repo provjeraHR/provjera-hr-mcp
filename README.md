@@ -91,6 +91,10 @@ Search uses no lookups (up to 20 searches per monthly lookup). The same key work
 
 Sudski registar RH, FINA RGFI javna objava, Registar udruga (associations), e-Oglasna ploča sudova, Registar koncesija, APPRRR Baza korisnika potpora, TED (Službeni list Europske unije), Nacionalni registar cestovnih prijevoznika, HANFA, HNB, HAKOM, HERA, AEM, MUP, Carinska uprava and Veterinarstvo registers, GLEIF LEI registar, and more.
 
+## Licence
+
+The files in this repository are MIT licensed ([LICENSE](LICENSE)). Data returned by the API and MCP server is governed by the [provjera.hr API and data terms](https://provjera.hr/uvjeti-za-api-i-podatke).
+
 ## Hrvatski
 
 MCP poslužitelj provjera.hr daje AI asistentima podatke o hrvatskim tvrtkama i udrugama: Sudski registar, FINA godišnji financijski izvještaji, dozvole i licencije, koncesije, stečajni oglasi s e-Oglasne ploče, potpore i EU natječaji. Pretraga po nazivu, OIB-u ili MBS-u. Poslužitelj je na `https://provjera.hr/mcp`, ključ se šalje u zaglavlju `Authorization: Bearer <ključ>`. Besplatni ključ: [provjera.hr/api-i-podaci/kljuc](https://provjera.hr/api-i-podaci/kljuc).
